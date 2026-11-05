@@ -3,5 +3,4 @@ title: Home
 publish: true
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the homepage for the Obsidian notes spawned from the brain of the Witch PhiGamma
