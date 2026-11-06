@@ -273,6 +273,19 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:quartz-community/comments
+    enabled: true
+    options:
+      provider: giscus
+      options:
+        repo: witch-phigamma/Quarts-Obsidian
+        repoId: YOUR_REPO_ID
+        category: Announcements
+        categoryId: YOUR_CATEGORY_ID
+    order: 50
+    layout:
+      position: afterBody
+      priority: 10
 layout:
   groups:
     toolbar:
