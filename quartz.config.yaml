@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: witch-phigamma.github.io/Quarts-Obsidian
+  baseUrl: obisidian-notes.phigamma503.workers.dev
   ignorePatterns:
     - private
     - templates
